@@ -21,7 +21,7 @@ Engineer · Tinkerer · Maker of tools that feel right
 
 A VSCodium distribution with the **[Pi](https://pi.dev)** coding agent and **[Gentle AI](https://github.com/Gentleman-Programming/gentle-ai)** inside the editor core — not as a plugin bolted on afterwards.
 
- in the chat, providers connected from settings, memory and skills already there. No setup ceremony, no Copilot. Free and complete.
+Pi in the chat, providers connected from settings, memory and skills already there. No setup ceremony, no Copilot. Free and complete.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-3B9BFF?style=flat-square)](https://github.com/Tomas-Platero/PiCode/blob/master/LICENSE)
 [![Pin check](https://github.com/TomasPlatero/PiCode/actions/workflows/pin-check.yml/badge.svg?style=flat-square)](https://github.com/TomasPlatero/PiCode/actions/workflows/pin-check.yml)
